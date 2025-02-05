@@ -2,12 +2,12 @@ import Image from "next/image"
 
 const Gallery = () => {
   const galleryItems = [
-    { type: "video", src: "/11.mov", poster: "/placeholder.svg?height=300&width=400", alt: "Kumbh Mela Video 1" },
-    { type: "video", src: "/12.mov", poster: "/placeholder.svg?height=300&width=400", alt: "Kumbh Mela Video 2" },
-    { type: "video", src: "/13.mov", poster: "/placeholder.svg?height=300&width=400", alt: "Kumbh Mela Video 3" },
-    { type: "image", src: "/14.jpg", poster: "/placeholder.svg?height=300&width=400", alt: "Kumbh Mela Image" },
-    { type: "video", src: "/15.mov", poster: "/placeholder.svg?height=300&width=400", alt: "Kumbh Mela Video 4" },
-    { type: "video", src: "/16.mov", poster: "/placeholder.svg?height=300&width=400", alt: "Kumbh Mela Video 5" },
+    { type: "video", src: "/11.mov", poster: "/placeholder1.png?height=300&width=400", alt: "Kumbh Mela Video 1" },
+    { type: "video", src: "/12.mov", poster: "/placeholder2.png?height=300&width=400", alt: "Kumbh Mela Video 2" },
+    { type: "video", src: "/13.mov", poster: "/placeholder3.png?height=300&width=400", alt: "Kumbh Mela Video 3" },
+    { type: "image", src: "/14.jpg", alt: "Kumbh Mela Image" },
+    { type: "video", src: "/15.mov", poster: "/placeholder4.png?height=300&width=400", alt: "Kumbh Mela Video 4" },
+    { type: "video", src: "/16.mov", poster: "/placeholder1.png?height=300&width=400", alt: "Kumbh Mela Video 5" },
   ]
 
   return (
