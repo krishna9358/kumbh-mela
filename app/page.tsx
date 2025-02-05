@@ -16,7 +16,7 @@ export default function Home() {
           <p className="text-xl mb-3">Join us in preserving and celebrating this sacred tradition</p>
           <p className="text-xl mb-8">DONATION FOR 11 THALI</p> <br />
           <Link
-            href="https://razorpay.me/@vrindavangardenpratapandbhagw?amount=8RVB2yAIXxF96sR7mZoAbw%3D%3D"
+            href="https://rzp.io/rzp/48ZLfCO3"
             className="bg-orange-500 hover:bg-orange-600 text-white font-bold py-4 px-8 rounded-full text-xl transition duration-300"
             target="_blank"
           >
