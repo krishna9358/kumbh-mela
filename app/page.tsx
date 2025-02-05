@@ -20,7 +20,7 @@ export default function Home() {
             className="bg-orange-500 hover:bg-orange-600 text-white font-bold py-4 px-8 rounded-full text-2xl transition duration-300"
             target="_blank"
           >
-            दान करे 
+            दान करें 
           </Link>
         </div>
       </section>
