@@ -17,10 +17,10 @@ export default function Home() {
           <p className="text-xl mb-8">DONATION FOR 11 THALI</p> <br />
           <Link
             href="https://razorpay.me/@vrindavangardenpratapandbhagw?amount=9oVI%2BF1Ke1S3A1yDpcZhrw%3D%3D"
-            className="bg-orange-500 hover:bg-orange-600 text-white font-bold py-4 px-8 rounded-full text-xl transition duration-300"
+            className="bg-orange-500 hover:bg-orange-600 text-white font-bold py-4 px-8 rounded-full text-2xl transition duration-300"
             target="_blank"
           >
-            Donate Now
+            दान करे 
           </Link>
         </div>
       </section>
